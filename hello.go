@@ -68,7 +68,7 @@ func iniciarMonitoramento() {
 
 		for _, site := range sites {
 
-			testaSite(site)
+			go testaSite(site)
 		}
 
 		time.Sleep(delay * time.Second)

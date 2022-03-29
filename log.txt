@@ -22,3 +22,17 @@
 23/02/2019 18:45:36 - https://portal.novafutura.com.br - online: true
 23/02/2019 18:47:58 - https://random-status-code.herokuapp.com - online: true
 23/02/2019 18:47:58 - https://portal.novafutura.com.br - online: true
+29/03/2022 09:57:13 - https://random-status-code.herokuapp.com - online: true
+29/03/2022 09:57:13 - https://portal.novafutura.com.br - online: true
+29/03/2022 09:57:19 - https://random-status-code.herokuapp.com - online: false
+29/03/2022 09:57:19 - https://portal.novafutura.com.br - online: true
+29/03/2022 09:57:24 - https://random-status-code.herokuapp.com - online: true
+29/03/2022 09:57:24 - https://portal.novafutura.com.br - online: true
+29/03/2022 10:00:07 - https://portal.novafutura.com.br - online: true
+29/03/2022 10:00:07 - https://random-status-code.herokuapp.com - online: false
+29/03/2022 10:00:54 - https://portal.novafutura.com.br - online: true
+29/03/2022 10:00:54 - https://random-status-code.herokuapp.com - online: false
+29/03/2022 10:00:59 - https://portal.novafutura.com.br - online: true
+29/03/2022 10:00:59 - https://random-status-code.herokuapp.com - online: false
+29/03/2022 10:01:04 - https://portal.novafutura.com.br - online: true
+29/03/2022 10:01:04 - https://random-status-code.herokuapp.com - online: true
